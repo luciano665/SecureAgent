@@ -2,6 +2,12 @@
 
 This is a GitHub App that reviews pull requests and submits reviews with AI.
 
+Below image shows overall architecture:
+![AGENT-AI](https://github.com/user-attachments/assets/c9904fba-2c87-4f21-a0c1-daace22a6050)
+
+
+
+
 ## Setup
 
 1. Download NGROK [here](https://download.ngrok.com/). This will be used to create a secure tunnel to your local server.
